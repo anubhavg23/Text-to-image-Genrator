@@ -7,9 +7,10 @@ A Stable Diffusion model that generates images from text prompts.
 Example prompt: "A cyberpunk cityscape at night, neon lights, rain-soaked streets"
 
 
+<h1>Project-Explained</h1>
+https://drive.google.com/file/d/1b4mcPYTivCpfCAsVbZzVbglBCEHH_Cpv/view?usp=sharing
 
 
 
 
-https://github.com/user-attachments/assets/b7c6d753-66d2-4dee-a93b-4c37127bbb99
 
